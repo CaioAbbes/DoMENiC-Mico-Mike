@@ -22,3 +22,5 @@ O jogo contém:
 
 * Phaser 3
   - Carregado no index.html (<script src="//cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>)
+  
+
